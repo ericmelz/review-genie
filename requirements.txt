@@ -13,7 +13,7 @@ google-auth
 google-auth-oauthlib
 google-auth-httplib2
 google-api-python-client
-beautifulsoup
+beautifulsoup4
 langchain
 tavily-python
 gradio_client
